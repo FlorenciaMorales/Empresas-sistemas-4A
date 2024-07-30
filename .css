@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(177, 168, 218);
+}
+h1{
+    color: rgb(53, 4, 165);
+    font-style: bold;
+    text-align: center;
+}
+.imagen{
+    text-align: center;
+}
+.div-boton-conocer{
+    text-align: center;
+    padding: 20px 40px;
+}
+.div-boton-conocer button {
+    padding: 10px 20px; /* Aumenta el padding para hacer el botón más grande */
+    font-size: 18px; /* Aumenta el tamaño de la fuente para hacer el texto más grande */
+    cursor: pointer;
+}
+h2{
+    color: rgba(48, 46, 46, 0.986);
+    text-align: justify;
+    font-size: bold;
+}
